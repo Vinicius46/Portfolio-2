@@ -1,0 +1,19 @@
+.project{
+    display: flex;
+    justify-content: center;
+    padding : 100px;
+    width: 1428px;
+    height: 700px;
+    
+
+}
+
+.project h1{
+    font-size: 45px;
+    font: poppins;
+    margin-top: -40px;
+    margin-left: -25px;
+}
+
+
+

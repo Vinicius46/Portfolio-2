@@ -1,0 +1,38 @@
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    
+}
+
+.contato{
+    display: flex;
+    justify-content: spa;
+    margin-right: 4px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 22px;
+    
+}
+
+.footer ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 4em;
+
+}
+.footer li{
+    margin-left: 20px;
+}
+
+.footer a{
+    color: white;
+}
+
+.cont{
+    display: grid;
+    padding: 20px;
+    margin-left: 300px;
+    align-items: center;
+}

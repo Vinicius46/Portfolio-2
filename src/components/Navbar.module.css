@@ -1,0 +1,31 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+
+.nav a{
+    text-decoration: none;
+    width: 166px;
+    height: 45px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 30px;
+
+
+    
+}
+
+.nav li{
+    margin: 0px 5px 5px 30px;
+}
+
+

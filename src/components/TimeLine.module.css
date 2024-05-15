@@ -1,0 +1,43 @@
+.timeline{
+    display: grid;
+    justify-content: center;
+    margin-left: 5em;
+    max-width: 1659px;
+    height: 597px;
+}
+
+.line{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 1289px;
+    height: 10px;
+    background-color: #ffffff;
+    
+
+}
+
+.line div{
+    content: '';
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    
+}
+
+.line div h1{
+    position: absolute;
+    bottom: 20px;
+    right: -30px;
+}
+
+.line div p {
+    position: absolute;
+    top: 20px;
+    width: 250px;
+    height: 60px;
+    margin-left: -100px;
+   align-items: center;
+}

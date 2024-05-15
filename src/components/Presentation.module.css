@@ -1,0 +1,16 @@
+.presentation{
+    text-align: left;
+    margin-left: 10%;
+}
+
+.presentation h1{
+    color:rgba(255, 255, 255, 1);
+    font-family: Poppins;
+    font-size: 45px;
+}
+
+.presentation p{
+    font-family: Poppins;
+    font-size: 26px;
+    color:rgba(188, 188, 188, 1);
+}
